@@ -1,0 +1,7 @@
+{
+  "homepage":"https://rchadgonzales.github.io/bootstrap_frontend_bootcamp",
+  "deploy":"gh-pages -d 001bootstrap5crashcourse",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
