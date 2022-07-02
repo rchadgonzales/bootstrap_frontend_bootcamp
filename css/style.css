@@ -11,6 +11,12 @@ body::before{
     border-radius:10px;
 } */
 
+/* Netlify hidden */
+.hidden{
+    visibility: hidden;
+    height: 0;
+}
+
 @media(min-width:768px){
     .news-input{
         width:50%;
